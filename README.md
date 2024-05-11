@@ -1,27 +1,27 @@
-# KanbanBoard
+# Kanban Board Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.7.
+This project implements a Kanban Board using Angular.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+To run the development server, use the command `ng serve`. Navigate to `http://localhost:4200/` in your browser. The application will automatically reload if you make any changes to the source files.
 
 ## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+You can generate various components using Angular CLI commands. For example, to generate a new component, use `ng generate component component-name`. You can also generate directives, pipes, services, classes, guards, interfaces, enums, or modules.
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+To build the project, use the command `ng build`. The build artifacts will be stored in the `dist/` directory.
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+To run unit tests, execute the command `ng test`. This runs the tests using Karma test runner.
 
 ## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+To run end-to-end tests, use the command `ng e2e`. This executes the tests using a platform of your choice. However, you need to first add a package that implements end-to-end testing capabilities.
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+For more information and help on using the Angular CLI, you can use the command `ng help` or refer to the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
