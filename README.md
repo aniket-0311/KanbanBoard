@@ -1,6 +1,7 @@
 # Kanban Board Project
 
 This project implements a Kanban Board using Angular.
+![Kanban Board](assets/KanbanPreview.png)
 
 ## Development server
 
